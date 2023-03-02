@@ -6,5 +6,6 @@ public class Continue {
             }
             System.out.print(i + " ");
         }
+        System.out.println("hello");
     }
 }
